@@ -1,0 +1,6 @@
+print('Ini program pertama saya')
+print('Nama saya Kristian Danuarta')
+print('Alamat saya Bangka Barat')
+print('Hoby saya bermain sepak bola')
+print('Saya berasal dari sekolah SMK Karya Parit Tiga')
+print('Saya lahir pada tanggan 12 Juli 2003')
